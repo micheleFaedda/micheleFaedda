@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm a master student in computer science. I've learned some languages like: pyhton, C, C#, MATLAB, Java. I'm interested in Artificial Intelligence and Geometry Processing. I want to do everything but I can’t :( 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micheleFaedda)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **micheleFaedda/micheleFaedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
