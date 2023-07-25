@@ -3,7 +3,7 @@ I'm a master student in computer science. I've learned some languages like: pyht
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=micheleFaedda&hide=contribs,prs&theme=slateorange)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=micheleFaedda&hide_progress=true)
 <!--
 **micheleFaedda/micheleFaedda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
